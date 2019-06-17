@@ -1645,7 +1645,7 @@ footer ul li {
     }
     .grid_program {
         display: grid;
-        grid-template-rows: 100%;
+        grid-template-columns: 100%;
     }
 }
 
